@@ -1,3 +1,4 @@
+## Running the notebook server
 
 # TODO: add input directory volume and output directory volume
 docker run \
