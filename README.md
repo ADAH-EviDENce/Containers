@@ -1,3 +1,5 @@
 # Building the docker images
-```docker build -t generate_d2vmodel .'''
+```
+docker build -t generate_d2vmodel .
+```
 
